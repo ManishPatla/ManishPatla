@@ -1,6 +1,7 @@
 "👋 Hey there! I'm Manish Patla,
-
-💡 A Passionate final-year B.Tech undergraduate in ECE with a keen interest in the fascinating domains of VLSI and Embedded Systems. Currently, I am working on a research-based project in the domain of quantum computation, specifically focusing on implementing quantum error correction for quantum circuits using Qiskit. 🌟
+💡  A Passionate final-year B.Tech undergraduate in ECE with a keen interest in the fascinating domains of VLSI and Embedded Systems. Currently, I 
+ am working on a research-based project in the domain of quantum computation, specifically focusing on implementing quantum error correction for 
+ quantum circuits using Qiskit. 🌟
 
 🧰  I’m currently learning Embedded Systems, STA, UVM and basic Protocol Knowledge on : UART,CAN,I2C,SPI with good Knowledge on Verilog, System Verilog,Digital Electronics..
 
