@@ -4,7 +4,7 @@
  am working on a research-based project in the domain of quantum computation, specifically focusing on implementing quantum error correction for 
  quantum circuits using Qiskit. 🌟
 
-🧰  I’m currently learning Embedded Systems, STA, UVM and basic Protocol Knowledge on : UART,CAN,I2C,SPI with good Knowledge on Verilog, System Verilog,Digital Electronics..
+🧰  I’m currently learning Embedded Systems, STA, UVM and basic Protocol Knowledge : UART,CAN,I2C,SPI with expertise in Verilog, System Verilog,Digital Electronics..
 
 🧪 By implementing various quantum error correction codes and techniques, I aim to mitigate noise and errors in quantum systems. This involves designing fault-tolerant quantum circuits, developing error detection and correction algorithms, and optimizing their implementation for real-world quantum computers.
 
