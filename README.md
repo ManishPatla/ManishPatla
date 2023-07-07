@@ -1,6 +1,6 @@
-"👋 Hey there! I'm Manish Patla,
+👋 Hey there! I'm Manish Patla,
 
-💡 Final-year B.Tech undergraduate in ECE with a keen interest in the fascinating domains of VLSI and Embedded Systems. Currently, I 
+🌍 Final-year B.Tech undergraduate in ECE with a keen interest in the fascinating domains of VLSI and Embedded Systems. Currently, I 
  am working on a research-based project in the domain of quantum computation, specifically focusing on implementing quantum error correction for 
  quantum circuits using Qiskit. 🌟
 
