@@ -6,7 +6,7 @@
 
 🧰  I’m currently learning Embedded Systems, STA, UVM and basic Protocols : UART,CAN,I2C,SPI with expertise in Verilog, System Verilog,Digital Electronics..
 
-🧪 By implementing various quantum error correction codes and techniques, I aim to mitigate noise and errors in quantum systems. This involves designing fault-tolerant quantum circuits, developing error detection and correction algorithms, and optimizing their implementation for real-world quantum computers.
+🧪 By implementing various quantum error correction codes and techniques, we aim to mitigate noise and errors in quantum systems. This involves designing fault-tolerant quantum circuits, developing error detection and correction algorithms, and optimizing their implementation for real-world quantum computers.
 
 🚀 On my GitHub, you'll find an assortment of projects and contributions showcasing my passion for VLSI, Embedded Systems, and quantum computation. I invite you to explore my repositories, where you'll discover innovative designs, code snippets, and verification methodologies, as well as my research on quantum error correction using Qiskit.
 
