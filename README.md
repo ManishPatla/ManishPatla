@@ -1,15 +1,13 @@
-👋 Hey there! I'm Manish Patla,
+👋 Hello! I'm Manish Patla,
 
-👀 Final-year B.Tech undergraduate in ECE with a keen interest in the fascinating domains of VLSI and Embedded Systems. Currently, I 
- am working on a research-based project in the domain of quantum computation, specifically focusing on implementing quantum error correction for 
- quantum circuits using Qiskit. 🌟
+👀 Final-year B.Tech student majoring in ECE with a fascination for VLSI, Embedded Systems, and Quantum Computation. Currently, I'm diving into emulating Quantum Computation using FPGAs.
 
-🧰  I’m currently learning Embedded Systems, STA, UVM and basic Protocols : UART,CAN,I2C,SPI with expertise in Verilog, System Verilog,Digital Electronics..
+🧰 Learning Embedded Systems, STA, UVM, and essential protocols (UART, CAN, I2C, SPI) alongside expertise in Verilog, System Verilog, and Digital Electronics.
 
-🧪 By implementing various quantum error correction codes and techniques, we aim to mitigate noise and errors in quantum systems. This involves designing fault-tolerant quantum circuits, developing error detection and correction algorithms, and optimizing their implementation for real-world quantum computers.
+🧪 My focus is on implementing quantum error correction codes to enhance the reliability of quantum circuits, a crucial step in advancing quantum computing.
 
-🚀 On my GitHub, you'll find an assortment of projects and contributions showcasing my passion for VLSI, Embedded Systems, and quantum computation. I invite you to explore my repositories, where you'll discover innovative designs, code snippets, and verification methodologies, as well as my research on quantum error correction using Qiskit.
+🚀 Explore my GitHub for VLSI, Embedded Systems, and quantum computation projects. Discover innovative designs, code, and my research on quantum error correction.
 
-🌐 As I continue my journey in the world of hardware engineering and quantum computation, I'm always open to collaborating with like-minded individuals, contributing to exciting projects, and exploring new opportunities.
+🌐 Open to collaborations, exciting projects, and new opportunities in hardware engineering and quantum computation.
 
-📫 Let's connect and embark on this transformative journey together. Feel free to reach out to me via email or LinkedIn – let's make a difference in the world of VLSI, Embedded Systems, and quantum computation! 🌍"
+📫 Let's connect on LinkedIn or via email. Together, we can make a difference in VLSI, Embedded Systems, and quantum computing! 🌍
