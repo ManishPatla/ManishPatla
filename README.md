@@ -1,6 +1,6 @@
 👋 Hello! I'm Manish Patla, PES University|2024
 
-👀 Final-year B.Tech student majoring in ECE with a fascination for VLSI, Embedded Systems, and Quantum Computation. Currently, I'm diving into emulating Quantum Computation using FPGAs.
+👀 Final-year B.Tech student majoring in ECE with a fascination for VLSI, Embedded Systems, and Quantum Computation. Currently, I'm working into emulating Quantum Computation using FPGAs.
 
 🧰 Learning Embedded Systems, STA, UVM, and essential protocols (UART, CAN, I2C, SPI) alongside expertise in Verilog, System Verilog, and Digital Electronics.
 
