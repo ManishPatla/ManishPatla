@@ -1,4 +1,4 @@
-👋 Hello! I'm Manish Patla,
+👋 Hello! I'm Manish Patla, 2024 UnderGraduate :PES University
 
 👀 Final-year B.Tech student majoring in ECE with a fascination for VLSI, Embedded Systems, and Quantum Computation. Currently, I'm diving into emulating Quantum Computation using FPGAs.
 
