@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Manish Patla</h1>
 <h2 align="center">  Hardware Engineer </h2>
-<h3 align="center"> B.Tech in ECE with a Passion for VLSI, Embedded Systems, and Quantum Computing.</h3>
+<h3 align="center">  B.Tech in ECE with a Passion for VLSI, Embedded Systems, and Quantum Computing.</h3>
 
 
 
@@ -24,9 +24,9 @@
 
 - 🌱 I’m currently learning **Embedded Systems, STA, UVM, and essential protocols (UART, CAN, I2C, SPI) alongside expertise in Verilog, System Verilog, FPGA and Digital Design.**
 
-- 👯 I’m looking to collaborate on **VLSI, Embedded Systems, and quantum computation projects**
+- 👯 I’m looking to collaborate on **Digital Design ,RISC-V, Embedded Systems, and Quantum Computing projects**
 
-- 🚀 Explore my GitHub for **VLSI, Embedded Systems, and quantum computation projects. Discover innovative designs, code, and my research on quantum error correction.**
+- 🚀 Explore my GitHub for **Design & Verification, FPGA , RTL Design , Static Timing Analysis ,Embedded Systems, and Quantum Computing Topics/Projects. Discover innovative designs, code, and our Research on Quantum Computing and Error Correction.**
 
 - 📫 How to reach me **manishpatla6@gmail.com**
 
