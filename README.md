@@ -3,6 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Manish Patla</h1>
+<h2 align="center">  Hardware Engineer </h2>
 <h3 align="center"> B.Tech in ECE with a Passion for VLSI, Embedded Systems, and Quantum Computing.</h3>
 
 
