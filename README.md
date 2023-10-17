@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on [ Quantum Computing . i.e Emulating Quantum Circuits using FPGAs.](https://github.com/ManishPatla/QuantumComputation_FPGAs)
 
-- 🌱 I’m currently learning **Embedded Systems, STA, UVM, and essential protocols (UART, CAN, I2C, SPI) alongside expertise in Verilog, System Verilog, and Digital Electronics.**
+- 🌱 I’m currently learning **Embedded Systems, STA, UVM, and essential protocols (UART, CAN, I2C, SPI) alongside expertise in Verilog, System Verilog, FPGA and Digital Design.**
 
 - 👯 I’m looking to collaborate on **VLSI, Embedded Systems, and quantum computation projects**
 
