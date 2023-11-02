@@ -32,6 +32,10 @@
 
 - ⚡ Exploring the Front End of VLSI **"Passionate about Digital Design & Verification.".**
 
+  <p allign="center"> <img width="336" alt="image" src="https://github.com/ManishPatla/ManishPatla/assets/109287423/c1174c28-0742-4f19-8c45-d0e9c8996d85"/> </p>
+-  Second Prize Winner of **"RISC-V Capture The Bug Verification Hackathon 2023"** by RISCV International,IIT Madras & Vyomas Systems
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/manishpatla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manishpatla" height="30" width="40" /></a>
